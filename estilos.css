@@ -1,0 +1,140 @@
+#Caja1 {
+
+color: gold;
+Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
+background-color: rgb(46, 46, 43);
+border: 1px;
+border-style: solid;
+border-color: rgb(157, 160, 3);
+font-size: 27px;
+padding-left: 0%;
+padding-top: 0%;
+text-shadow: -3px -3px 3px #000000, 3px -3px 3px #000000, -3px 3px 3px #000000, 3px 3px 3px #000000;
+background-image: url("Imagen3.jpg");
+
+box-sizing: content-box;
+
+box-sizing: border-box;
+
+text-align: center;
+
+}
+
+}
+video {
+      
+      z-index:1;
+    position:fixed;
+}
+#Titulo{
+
+      top: 270px;
+      left: 140px;
+      right: 100px;
+      bottom: 12px;
+      position: absolute;
+      padding-top: 0px;
+      z-index: 2;
+      font-size: 400%;
+      text-align: center;
+      padding-right: 20px;
+      font-family:Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
+      font-weight: 300;
+      text-transform: uppercase;
+      color: #ffe93c;
+      border-color: black;
+     
+     
+}
+
+
+
+
+
+
+#SubTitulo {
+font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+text-align: center;
+      color: #ffe93c ;
+      font-size:24px;
+      
+}
+
+#Categoria1 {
+      font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+      text-align: center;
+      display: inline-block;
+      box-sizing: border-box;
+      color: #ffe93c ;
+      padding-top: 10px;
+     float: right;
+     padding-right: 80px;
+    font-size: 20px;
+
+}
+
+#Categoria2 {
+      font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+      text-align: center;
+      display: inline-block;
+      box-sizing: border-box;
+      color: #ffe93c ;
+      padding-top: 10px;
+     float: left;
+     padding-left: 80px;
+     font-size: 20px;
+     
+}
+
+
+#hr1 {
+padding-top: 760px;
+
+}
+
+
+#SubTitulo2 {
+      font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+      text-align: center;
+            color: #ffe93c ;
+            font-size:24px;
+}
+
+
+#Red1 {
+      font-size: 20px;
+      text-align: center;
+      display: inline-block;
+      box-sizing: border-box;
+      color: #ffe93c ;
+      padding-top: 10px;
+     float: left;
+     padding-left: 80px;
+    
+
+     font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+}
+
+
+#Red2 {
+      font-family: Courier Bold, Courier, Georgia, Times, Times serif;
+    
+      text-align: center;
+      display: inline-block;
+      box-sizing: border-box;
+      color: #ffe93c ;
+      padding-top: 10px;
+     float: right;
+     padding-right: 80px;
+    font-size: 20px;
+
+
+
+}
+
+
+#hr2 {
+      padding-top: 750px;
+      
+      }
+      
