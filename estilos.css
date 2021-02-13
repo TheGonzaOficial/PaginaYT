@@ -27,22 +27,28 @@ video {
     position:fixed;
 }
 #Titulo{
-
-      top: 270px;
-      left: 140px;
-      right: 100px;
-      bottom: 12px;
-      position: absolute;
+      margin-left: 20%;
+      padding-right: 100px;
+      padding-left:0px;
+      margin-right: 0px;
+      margin-top: 0x;
+      margin-bottom: 0px;
+      width: 0px;
+      height: 0px;
+      top: 240px;
+      
+      left: 0%;
+      bottom: 0px;
+      position:absolute;
       padding-top: 0px;
       z-index: 2;
       font-size: 400%;
-      text-align: center;
-      padding-right: 20px;
       font-family:Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
-      font-weight: 300;
+      font-weight: 0;
       text-transform: uppercase;
       color: #ffe93c;
       border-color: black;
+     
      
      
 }
@@ -82,13 +88,13 @@ text-align: center;
       padding-top: 10px;
      float: left;
      padding-left: 80px;
-     font-size: 20px;
+    font-size: 20px;
      
 }
 
 
 #hr1 {
-padding-top: 760px;
+clear:left;
 
 }
 
@@ -134,7 +140,7 @@ padding-top: 760px;
 
 
 #hr2 {
-      padding-top: 750px;
+      clear: left;
       
       }
 
