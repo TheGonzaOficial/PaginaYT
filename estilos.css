@@ -27,22 +27,14 @@ video {
     position:fixed;
 }
 #Titulo{
-      margin-left: 0%;
-      padding-right: 100px;
-      padding-left:0px;
-      margin-right: 0px;
-      margin-top: 0x;
-      margin-bottom: 0px;
+   
+    left: 28%;
       width: 0px;
       height: 0px;
-      top: 240px;
-      
-      left: 22%;
-      bottom: 0px;
+      top: 240px; 
       position:absolute;
-      padding-top: 0px;
       z-index: 2;
-      font-size: 400%;
+      font-size: 300%;
       font-family:Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
       font-weight: 0;
       text-transform: uppercase;
@@ -140,6 +132,7 @@ clear:left;
 
 
 #hr2 {
+      padding-top: 50px;
       clear: left;
       
       }
@@ -150,7 +143,7 @@ clear:left;
       border-color: azure;
 border-style: solid;
 background-color: white;
-
+height: 400px;
 
 }
       
