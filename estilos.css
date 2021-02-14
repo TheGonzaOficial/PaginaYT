@@ -27,7 +27,7 @@ video {
     position:fixed;
 }
 #Titulo{
-      margin-left: 20%;
+      margin-left: 0%;
       padding-right: 100px;
       padding-left:0px;
       margin-right: 0px;
@@ -37,7 +37,7 @@ video {
       height: 0px;
       top: 240px;
       
-      left: 2%;
+      left: 22%;
       bottom: 0px;
       position:absolute;
       padding-top: 0px;
